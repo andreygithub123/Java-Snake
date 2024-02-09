@@ -27,16 +27,6 @@ To run the game, compile the Java files in the src directory and then run the `M
 - Eat apples to increase your score and grow the snake.
 - Avoid colliding with the walls or the snake's own tail.
 
-## Contributing
-Contributions are welcome! If you have ideas for improvements or bug fixes, feel free to fork the repository, make changes, and submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-- Thanks to everyone who has contributed to this project!
-- Special thanks to [Java Programming Forums](http://www.java-forums.org/) for valuable discussions and insights.
-
 ## Contact
-- Your Name - [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- Project Link: https://github.com/yourusername/java-snake-game
+- Your Name - Andrei Diaconu
+- Project Link: https://github.com/andreygithub123/Java-Snake
